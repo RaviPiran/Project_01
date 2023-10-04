@@ -1,0 +1,31 @@
+.para{
+      margin-right: 70%;
+}
+
+.grid-container {
+      display: grid;
+      grid-template-row: auto auto auto;
+   
+                                         }
+
+.grid-item {
+      
+      border: 1px solid rgba(0, 0, 0, 0.4);
+      float: right;
+      text-align: justify;
+      padding-left: 10px;
+      padding-right: 10px;
+                             }
+
+.two{
+      float: left;
+      text-align: justify;
+      padding-right: 50px; }
+       
+       
+.three{
+       padding-left: 50px;
+
+}
+                  
+ 
